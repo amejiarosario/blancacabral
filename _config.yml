@@ -87,4 +87,3 @@ exclude_generator:
 deploy:
   type: github
   repo: https://github.com/amejiarosario/blancacabral.git
-  branch: gh-pages
